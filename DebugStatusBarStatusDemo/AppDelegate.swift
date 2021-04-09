@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  DebugStatusBarStatusDemo
-//
-//  Created by Yiyin Shen on 9/4/21.
-//
-
 import UIKit
 
 @main
